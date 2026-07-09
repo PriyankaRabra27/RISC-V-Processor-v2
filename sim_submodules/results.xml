@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1782471405" />
+    <testcase name="test_decode_branch_inst" classname="test_decode_branch_inst" file="/home/wishuser/wish25-course/3_riscv/sim_submodules/test_decode_branch_inst.py" lineno="6" time="0.03937935829162598" sim_time_ns="1000.001" ratio_time="25394.040009348002" />
+  </testsuite>
+</testsuites>

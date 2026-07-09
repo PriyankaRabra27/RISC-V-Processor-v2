@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1782471419" />
+    <testcase name="test_rv32i_instructions" classname="test_instr" file="/home/wishuser/wish25-course/3_riscv/sim/test_instr.py" lineno="7" time="0.11318063735961914" sim_time_ns="800.001" ratio_time="7068.355671633868" />
+  </testsuite>
+</testsuites>
