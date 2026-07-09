@@ -33,10 +33,10 @@ stages, each implemented as a separate module:
 
 ## Verification
 
-Verified using [cocotb](https://www.cocotb.org/), a Python-based
-hardware verification framework, with per-module and integration-level
-tests (`sim_submodules/` and `sim/` respectively) covering the ALU,
-register file, branch, jump, load, store, and full-instruction execution
-paths.
+The design was verified against a pre-written cocotb test suite (provided
+as part of the training program this project was built under), with
+per-module and integration-level tests (`sim_submodules/` and `sim/`
+respectively) covering the ALU, register file, branch, jump, load,
+store, and full-instruction execution paths.
 
 ## Folder structure
