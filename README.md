@@ -40,3 +40,14 @@ respectively) covering the ALU, register file, branch, jump, load,
 store, and full-instruction execution paths.
 
 ## Folder structure
+## Running the tests
+
+Requires [cocotb](https://www.cocotb.org/) and a supported simulator
+(Icarus Verilog).
+
+```bash
+cd sim_submodules
+make
+```
+
+
